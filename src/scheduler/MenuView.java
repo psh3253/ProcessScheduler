@@ -9,7 +9,7 @@ public class MenuView extends JFrame {
 
     public MenuView() {
         setTitle("스케쥴링 정책 선택");
-        setSize(370,  100);
+        setSize(400,  100);
         setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
